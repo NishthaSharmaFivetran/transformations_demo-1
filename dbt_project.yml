@@ -31,7 +31,7 @@ vars:
  
     pinterest_schema: pinterest
     twitter_ads_schema: twitter_ads
-    facebook_ads_schema: facebook_ads_dbt
+    facebook_ads_schema: facebook_ads
     snapchat_schema: snapchat_ads
 
 models:
