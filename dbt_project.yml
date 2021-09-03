@@ -29,7 +29,7 @@ vars:
     ad_reporting__linkedin_ads_enabled: False
     ad_reporting__google_ads_enabled: False
  
-    pinterest_schema: pinterest
+    pinterest_schema: pinterest_ads
     twitter_ads_schema: twitter_ads
     facebook_ads_schema: facebook_ads
     snapchat_schema: snapchat_ads
