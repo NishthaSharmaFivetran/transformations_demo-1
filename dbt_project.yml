@@ -34,6 +34,10 @@ vars:
     facebook_ads_schema: facebook_ads
     snapchat_schema: snapchat_ads
 
+    fivetran_log:
+        fivetran_log_using_transformations: false # this will disable all transformation + trigger_table logic
+        fivetran_log_using_triggers: false # this will disable only trigger_table logic
+
 models:
     # disable both microsoft ads models if not using microsoft ads
     microsoft_ads:
